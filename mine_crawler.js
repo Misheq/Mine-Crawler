@@ -198,7 +198,7 @@ var gameOver = false;
 var matrix = init(height,width,'.');
 var step_count = 0;
 
-// globalis valtozok vege ---------------------
+// globalis valtozok vege --------------
 
 generateGameTable();
 playerInput();
